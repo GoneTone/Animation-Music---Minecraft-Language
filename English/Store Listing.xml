@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Title">動畫音樂 - Minecraft</string>
-    <string name="Short description">最受各國人喜歡的 Minecraft 動畫音樂 App</string>
-    <string name="Full description">這是一款可以讓您觀看聆聽 Minecraft 動畫或音樂的App，和資料庫自動同步，不用更新App就有新影片，最受各國人喜歡的 Minecraft 動畫音樂 App，等您來下載享受^^
+    <string name="Title">Animation & Music - Minecraft</string>
+    <string name="Short description">The most popular Minecraft animation and music application worldwide.</string>
+    <string name="Full description">This is the application that allows you to watch and listen to all the animation and music about Minecraft. Sync all the new videos and music with the Cloud Database automatically without updating the app. Download it today!
 
-如果您想要翻譯這個App，請至 https://github.com/GoneTone/Animation-Music---Minecraft-Language
+If you want to translate this app, please visit: https://github.com/GoneTone/Animation-Music---Minecraft-Language
 
-此軟體絕對沒有法律問題，所有行為都符合 YouTube 條款內容。
+No violation to the law, this application is running under the Standard YouTube License.
 
-團隊Line官方帳號：@HWQ3507L
-我的粉絲團：http://www.facebook.com/reh.tw.sw
+Email: team@reh.tw
+Official Line Account: @HWQ3507L
 
-電子信箱：team@reh.tw
+Contact the developer of the app:
 Line：29022716
+Facebook Page: https://www.facebook.com/reh.tw.sw
 
-官網：http://reh.tw
+Official Website: http://reh.tw
 
-【聲明】
-動畫音樂 - Minecraft 是一個非官方的App，本人也不是官方人員，此App只是讓您享受 Minecraft 動畫 和 音樂 的魅力。
-
-本App所使用的 Icon 已經過 Mojang AB 同意。
-Minecraft 是 Mojang AB 所註冊的商標，我們遵循條款 http://www.minecraft.net/terms 。</string>
+[Disclaimer]
+Animation & Music - Minecraft is an unofficial application. I'm not the developer of MojangAB. The app is only for you to enjoy the animation and music about Minecraft.
+The icon of this app is authorized by MojangAB.
+"Minecraft" is a trademark of Mojang AB. We follow the terms of Minecraft
+Terms of Minecraft: https://minecraft.net/terms</string>
 </resources>
