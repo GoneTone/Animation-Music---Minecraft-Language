@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="udf_Animation_Music">動畫音樂</string>
+    <string name="udf_App_Name">動畫音樂 - Minecraft</string>
+    <string name="udf_Composite">綜合</string>
+    <string name="udf_Fan_groups">粉絲團</string>
+    <string name="udf_Featured">精選</string>
+    <string name="udf_Featured_Animated">精選動畫</string>
+    <string name="udf_Featured_Music">精選音樂</string>
+    <string name="udf_Other_App">開發團隊專區</string>
+    <string name="udf_PayPal_Donate">PayPal 捐款</string>
+    <string name="udf_REHTW_Web_oficial">REH.TW 官網</string>
+    <string name="udf_Score">評分</string>
+    <string name="udf_Societies">社團</string>
+</resources>
